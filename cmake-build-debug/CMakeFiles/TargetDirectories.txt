@@ -1,5 +1,8 @@
-/Users/m.xushvaqtov/CLionProjects/HOMEWORK2/cmake-build-debug/CMakeFiles/HOMEWORK2.dir
-/Users/m.xushvaqtov/CLionProjects/HOMEWORK2/cmake-build-debug/CMakeFiles/problem1.dir
-/Users/m.xushvaqtov/CLionProjects/HOMEWORK2/cmake-build-debug/CMakeFiles/problem2.dir
-/Users/m.xushvaqtov/CLionProjects/HOMEWORK2/cmake-build-debug/CMakeFiles/edit_cache.dir
-/Users/m.xushvaqtov/CLionProjects/HOMEWORK2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+D:/HOMEWORK2/cmake-build-debug/CMakeFiles/HOMEWORK2.dir
+D:/HOMEWORK2/cmake-build-debug/CMakeFiles/problem1.dir
+D:/HOMEWORK2/cmake-build-debug/CMakeFiles/problem2.dir
+D:/HOMEWORK2/cmake-build-debug/CMakeFiles/problem3.dir
+D:/HOMEWORK2/cmake-build-debug/CMakeFiles/problem4.dir
+D:/HOMEWORK2/cmake-build-debug/CMakeFiles/problem5.dir
+D:/HOMEWORK2/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/HOMEWORK2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
